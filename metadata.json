@@ -1,6 +1,0 @@
-{
-  "name": "CafeManager Pro",
-  "description": "Hệ thống quản lý quán cafe thông minh, tối ưu hóa giao diện di động cho chủ quán và nhân viên phục vụ.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
